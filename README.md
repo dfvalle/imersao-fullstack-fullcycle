@@ -1,2 +1,2 @@
 # imersao-fullstack-fullcycle
-Repositório de código utilizado das aulas imersao fullstack
+Repositório de código utilizado do curso imersao fullstack
